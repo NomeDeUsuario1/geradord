@@ -1,0 +1,2 @@
+# geradord
+Gerador de senhas
