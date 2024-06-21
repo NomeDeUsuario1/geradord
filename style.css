@@ -46,7 +46,7 @@ body{
 #campo-senha{
     background-color: var(--fundo-senha);
     border: none;
-    color: var(--branco);
+    color: var(#000000);
     font-family: var(--bungee);
     font-size: 40px;
     width: 70%;
